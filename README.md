@@ -129,7 +129,7 @@ This project helped practice:
 ## 👤 Author
 
 Manan Bansal  
-GitHub: https://github.com/mananbansal583-git
+GitHub: https://github.com/mananbdev
 
 ---
 
