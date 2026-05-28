@@ -112,7 +112,7 @@ This project helped practice:
 - Smooth scrolling navigation
 - CSS hover animations and transitions
 - Clean semantic HTML structuring
-- Building a complete landing page without frameworks
+- Building a complete landing page without framework
 
 ---
 
